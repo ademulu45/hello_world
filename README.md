@@ -1,2 +1,3 @@
 # hello_world
-github kullanmaya başlıyorum
+Merhaba Arkadaşlar!!!
+Bende GitHub kullanmaya başlıyorum....
